@@ -84,7 +84,6 @@ section {
   background: url('img/me.jpg') no-repeat;
   background-size: contain;
   background-position: center;
-  zoom: 115%;
 }
 
 .home-content {
@@ -219,6 +218,23 @@ section {
 .home-sci a:hover::before {
   width: 100%;
 }
+
+.home-imgHover {
+  position: absolute;
+  top: 0;
+  right: 25%;
+  width: 45%;
+  height: 100%;
+  background: transparent;
+  transition: 3s;
+}
+
+.home-imgHover:hover {
+  background: var(--bg-color);
+  opacity: .8;
+}
+
+
 
 
 
