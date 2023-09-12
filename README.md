@@ -6,3 +6,4 @@
 
 #starting off with HTML framework customizing with css as I go
 #currently on home / about me page 
+#Added 'About Me' page. Used CSS/HTML
