@@ -10,3 +10,4 @@
 #Added 'About Me' page. Used CSS/HTML
 #Created JS File
 #Made page responsive to multiple size screens (phone, tablet, monitor)
+#Added @keyframe animation
